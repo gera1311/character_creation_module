@@ -1,5 +1,4 @@
 from random import randint
-from typing import Optional
 
 
 def attack(char_name: str, char_class: str) -> str:
